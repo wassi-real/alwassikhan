@@ -47,6 +47,12 @@ const otherSites = [
     //     icon: 'https://ik.imagekit.io/softoultra/Startup%20Logo/linklist.png?updatedAt=1735658119549',
     //     isImage: true 
     // },
+     { 
+        name: 'Volume Booster (Extension)', 
+        url: 'https://chromewebstore.google.com/detail/mgmdoeehhegnneemacnbbelabhhcbled?utm_source=item-share-cb', 
+        icon: 'https://lh3.googleusercontent.com/zX_J6CuNHGb3GgszB9y3x-oCfd0vPzOvyNIq4WHvvqe-lAVdxp_HspEo_zjGm-OIC4jd_CMqAhJosa9r9vaoTrKZOQ=s120',
+        isImage: true 
+    },
     { 
         name: 'MicroDeals (In dev)', 
         url: 'https://microdeals.online/', 
